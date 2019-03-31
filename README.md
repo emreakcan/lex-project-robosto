@@ -65,7 +65,7 @@ ASSIGNMENT: '==' ;
 
 
 
-Sample;
+# Samples
 
 Comment => /* commented */
 
@@ -75,4 +75,4 @@ x = 10
 
 y = x + x
 
-so on..
+(java and pyhton mixed)
