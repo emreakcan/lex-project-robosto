@@ -36,7 +36,7 @@ Expressions
 
 <left hand side> ::= <expression name>
 
-<assignment operator> ::= = | *= | /= | %= 
+<assignment operator> ::= = 
 
 Tokens
 
