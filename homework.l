@@ -9,7 +9,7 @@ id	[a-z]
 num	[0-9]+
 bop	=|<|>|!=|<=|>=|==|&&|"||"|[+-/*]
 uop	"++"|"--"
-
+comment /*"([^*]|\*+[^*/])*\*+"/
 token TRUE FALSE NAND
 left NAND
 
@@ -23,7 +23,6 @@ left NAND
 "else"					{printf("ELSE ");}
 "print"					{printf("PRINT ");}
 "scan"					{printf("SCAN ");}
-"/*"([^*]|\*+[^*/])*\*+"/"		{printf("COMMENT ");}
 bool 					{printf("BOOL ");}
 int					{printf("INTEGER ");}
 ;					{printf("SEMICOLON ");}
