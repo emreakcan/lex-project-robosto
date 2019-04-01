@@ -65,7 +65,7 @@ ASSIGNMENT: '==' ;
 
 
 
-Sample;
+# Samples
 
 Comment => /* commented */
 
@@ -75,4 +75,12 @@ x = 10
 
 y = x + x
 
-so on..
+ for (statement 1; statement 2; statement 3) {
+  // code block to be executed
+}
+
+while (condition) {
+  // code block to be executed
+}
+
+(java and pyhton mixed)
