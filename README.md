@@ -1,10 +1,9 @@
+# Beleşçi tayfa kanalıma hoşgeldiniz, çok değiştirmeyin ödevi bozulur. 
+lex, yacc ve gcc komutlarını shellden çalıştırabiliyor olduktan sonra aşağıda dediklerimi yapın. Ödevi silmiyorum çünkü insana çok faydası olan bişey değil.
+
 # lex-project-robosto
 
 
-Project Members
-Beren KOTANLI - 20170808075
-Emre Can AKCAN - 20170808074
-Anıl DOĞAN - 20170808071
 
 Robusta Syntax Specification
 
